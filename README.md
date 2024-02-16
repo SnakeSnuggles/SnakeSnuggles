@@ -3,11 +3,11 @@
 
 ## Profisioncieys
 <div style="display=flex">
-<img src="Python.png" width="50">
-<img src="C++.png" width="50">
-<img src="git.png" width="50">
-<img src="Java.png" width="50">
-<img src="TI-BASIC.png" width="90">
+<img src="Python.png" width="90">
+<img src="C++.png" width="90">
+<img src="git.png" width="90">
+<img src="Java.png" width="90">
+<img src="TI-BASIC.png" width="140">
 </div>
 
 ## Favorite "IDE"
