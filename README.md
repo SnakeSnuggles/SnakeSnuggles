@@ -2,11 +2,13 @@
 #### I'm SnakeSnuggles, an intermetdiate programmer.
 
 ## Profisioncieys
+<div style="display=flex">
 <img src="Python.png" width="50">
 <img src="C++.png" width="50">
 <img src="git.png" width="50">
 <img src="Java.png" width="50">
 <img src="TI-BASIC.png" width="90">
+</div>
 
 ## Favorite "IDE"
 <img src="vs_code.png" width="90">
