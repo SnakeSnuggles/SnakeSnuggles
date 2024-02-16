@@ -1,13 +1,13 @@
 ## Hey
-#### I'm SnakeSnuggles, an intermetdiate programmer.
+#### I'm SnakeSnuggles, an intermediate programmer.
 
-## Profisioncieys
+## Proficiencies
 <div style="display=flex">
-<img src="Python.png" width="90">
-<img src="C++.png" width="90">
-<img src="git.png" width="90">
-<img src="Java.png" width="90">
-<img src="TI-BASIC.png" width="140">
+    <img src="Python.png" width="90">
+    <img src="C++.png" width="90">
+    <img src="git.png" width="90">
+    <img src="Java.png" width="90">
+    <img src="TI-BASIC.png" width="140">
 </div>
 
 ## Favorite "IDE"
@@ -17,18 +17,18 @@
 <img src="Python.png" width="90">
 
 # Projects
-### [My discord bot (My largest project)](https://github.com/SnakeSnuggles/discord_bot)
-* Has many fetures
+### [My Discord Bot (My largest project)](https://github.com/SnakeSnuggles/discord_bot)
+* Has many features
     * Economy
     * Players can gain, gift, buy, and rob points
-    * Has Elections for the presedent of the discord bot
-    * Has many gabling features 
-* Made in python
+    * Has Elections for the president of the Discord bot
+    * Has many gambling features 
+* Made in Python
 
-### [The heads tails gen turned RPG](https://github.com/SnakeSnuggles/weird_rpg)
-* Has GUI (The best don't quote me)
+### [The Heads Tails Gen Turned RPG](https://github.com/SnakeSnuggles/weird_rpg)
+* Has GUI (The best, don't quote me)
 * Fight, buy, eat repeat
 * Made in C++
-### [Gui for spy from tf2](https://github.com/SnakeSnuggles/guiforspy)
+### [GUI for Spy from TF2](https://github.com/SnakeSnuggles/guiforspy)
 * Has GUI 
-* Made in python
+* Made in Python
